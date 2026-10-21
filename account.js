@@ -6,7 +6,7 @@ var website_name = "Rayjoun";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/Rayjoun_top_up";
+var telegram_channel_link = "8801920416788";
 
 // =======================================================
 // TELEGRAM GROUP LINK
